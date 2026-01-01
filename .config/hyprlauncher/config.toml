@@ -1,0 +1,10 @@
+# Catppuccin Mocha - Pink accent
+[colors]
+background = "#1e1e2e"
+foreground = "#cdd6f4"
+selected = "#f5c2e7"    # Pink
+border = "#f5c2e7"      # Pink
+
+[behavior]
+fuzzy_search = true
+show_all_on_open = true
